@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="218ea1bc-b1d7-48fd-b19b-dd910b6881d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayfmfDcqqn9OCaekRcW7A7HMyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\weaii\magisterka\semestr 1\programowanie systemow rozproszonych\lab\lab4Bedla\Przychodnia_arrangodb\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EntryPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntryPoint" />
+      <module name="Przychodnia_arrangodb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EntryPoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218ea1bc-b1d7-48fd-b19b-dd910b6881d9" name="Default Changelist" comment="" />
+      <created>1587712914203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587712914203</updated>
+      <workItem from="1587712918707" duration="8146000" />
+      <workItem from="1587812566122" duration="21055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1587717230846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587717230846" />
+    <state x="715" y="142" key="#xdebugger.evaluate" timestamp="1587889104558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="142" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1587889104558" />
+    <state x="1194" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587721017904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1194" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587721017904" />
+    <state width="467" height="618" key="DebuggerActiveHint" timestamp="1587889011563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="467" height="618" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1587889011563" />
+    <state width="916" height="267" key="GridCell.Tab.0.bottom" timestamp="1588363228362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588363228362" />
+    <state width="916" height="267" key="GridCell.Tab.0.center" timestamp="1588363228361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588363228361" />
+    <state width="916" height="267" key="GridCell.Tab.0.left" timestamp="1588363228361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588363228361" />
+    <state width="916" height="267" key="GridCell.Tab.0.right" timestamp="1588363228362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588363228362" />
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1587889114410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587889114410" />
+    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1587889114410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587889114410" />
+    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1587889114410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587889114410" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1587889114410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587889114410" />
+    <state x="518" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587835239010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1587835239010" />
+    <state width="744" height="315" key="javadoc.popup.new" timestamp="1588362981912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="744" height="315" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1588362981912" />
+  </component>
+</project>
